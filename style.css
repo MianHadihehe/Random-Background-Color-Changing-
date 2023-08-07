@@ -1,0 +1,29 @@
+.container{
+    text-align: center;
+    padding-top: 50%;
+    height: 30vh;
+}
+h1{
+    background-color: aquamarine;
+    display: inline-block;
+    height: 25%;
+    width: 70%;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.btn{
+    display: block;
+    margin: auto;
+    margin-top: 2%;
+    background-color: cadetblue;
+    width: 30%;
+    height: 25%;
+    font-size: 1.1rem;
+    border-radius: 10px;
+}
+.btn:hover{
+    background-color: darkcyan;
+}
